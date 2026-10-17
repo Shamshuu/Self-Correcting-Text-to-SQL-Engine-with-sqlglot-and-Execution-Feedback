@@ -1,0 +1,9 @@
+{
+  "dataset_cases": 30,
+  "modes": {
+    "zero_shot": {"execution_accuracy": 0.0, "average_iterations": 1.0, "failure_class_breakdown": {}, "cases": 30},
+    "syntax_schema_repair_only": {"execution_accuracy": 0.0, "average_iterations": 1.0, "failure_class_breakdown": {}, "cases": 30},
+    "full_pipeline": {"execution_accuracy": 0.0, "average_iterations": 1.0, "failure_class_breakdown": {}, "cases": 30}
+  },
+  "note": "Placeholder report shape. Regenerate with docker compose exec api python scripts/evaluate.py after the database is available."
+}
